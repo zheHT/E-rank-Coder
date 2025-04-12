@@ -67,7 +67,7 @@ class DataProcessor:
             print(f"Error: The file '{self.csv_filepath}' was not found.")
             return None
 
-  def clean_data(self):
+  def clean_data(self): # function to handle data conversion or data cleaning such as checking for missing value
         if self.df is None:
             print("Error: No data loaded. Cannot clean.")
             return None
@@ -130,7 +130,7 @@ class DataProcessor:
 
         return self.df
 
-class HMMTrader:
+class HMMTrader: # class to mainly handle HMM Model Training
     """
         Trains the Hidden Markov Model.
 
