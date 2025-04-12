@@ -3,4 +3,6 @@ Link to Canva
 
 Link to Figma Prototype
 [Figma Prototype](https://www.figma.com/proto/fHHT9GI2Qo2nTcWYlWQj0l/Hackathon?node-id=0-1&t=9sn3DwWdKarQX2LW-1)
+
+Link to Figma Prototype (Dev Mode)
 [Figma DevMode](https://www.figma.com/design/fHHT9GI2Qo2nTcWYlWQj0l/Hackathon?node-id=0-1&m=dev&t=lwGrGjLxToHCud8l-1)
